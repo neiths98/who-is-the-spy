@@ -1,0 +1,23 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20.17.0",
+    "npm": "10.8.2"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "dependencies": {
+    "telegraf": "^4.7.0"
+  }
+}
